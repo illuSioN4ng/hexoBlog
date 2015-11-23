@@ -160,10 +160,12 @@ mathjax:
 
 
 # Swiftype Search API Key
-#swiftype_key:
+swiftype_key: mYKZJUzW3WCkCyyA3Gzs
 
 # Baidu Analytics ID
 #baidu_analytics:
+#百度统计
+baidu_analytics: 73f680a7c65935b14b74cc6e5969222d
 
 # Duoshuo ShortName
 duoshuo_shortname: illuSioN4ng
@@ -173,6 +175,7 @@ duoshuo_shortname: illuSioN4ng
 
 # Share
 #jiathis:
+jiathis: true
 
 # Share
 #duoshuo_share: true

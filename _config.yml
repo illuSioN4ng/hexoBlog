@@ -76,9 +76,6 @@ deploy:
 # 头像设置
 avatar: /uploads/avatar.jpg
 
-#百度统计
-baidu_analytics: 24310a96995b351ea24367bfd27c6c6b
-
 #feed
 feed:
   type: atom
@@ -100,3 +97,9 @@ links_title: Links
 # links
 links:
   MacTalk: http://macshuo.com/
+
+# JiaThis 分享服务
+jiathis: true
+
+# 多说热评文章 true 或者 false
+duoshuo_hotartical: true
