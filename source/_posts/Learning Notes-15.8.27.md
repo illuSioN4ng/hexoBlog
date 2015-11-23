@@ -1,6 +1,6 @@
 title: 学习日记
 date: 2015-08-27 15:48:29
-tags: [Learning Notes]
+tags: [Learning Notes,JavaScript,CSS]
 categories: Learning Notes
 toc: true 
 ---

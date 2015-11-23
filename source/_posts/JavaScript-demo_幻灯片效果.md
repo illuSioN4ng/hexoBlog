@@ -1,7 +1,7 @@
 title: Javascript实现幻灯片效果
 date: 2015-08-24 14:44:29
-tags: [JavaSript]
-categories: JavaSript
+tags: [JavaScript]
+categories: JavaScript
 toc: true 
 ---
 Web上很多页面都有提供javascript幻灯效果的代码库，我们可以免费直接使用很多优秀的代码库。今天我开始学习用JavaScript实现幻灯效果，新手一步一步开始学起。

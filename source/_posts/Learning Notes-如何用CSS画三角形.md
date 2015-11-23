@@ -1,6 +1,6 @@
 title: 如何用CSS画三角形
 date: 2015-09-02 10:04
-tags: [Learning Notes]
+tags: [Learning Notes,CSS]
 categories: Learning Notes
 toc: false 
 ---
