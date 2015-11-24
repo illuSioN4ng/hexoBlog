@@ -1,4 +1,4 @@
-title:  CSS Sprite（CSS雪碧图）
+title: CSS Sprite（CSS雪碧图）
 date: 2015-08-25 09:09:29
 tags: [CSS]
 categories: CSS

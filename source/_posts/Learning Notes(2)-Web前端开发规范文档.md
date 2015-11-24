@@ -1,4 +1,4 @@
-title: 学习日记:Web前端开发规范文档
+title: Web前端开发规范文档
 date: 2015-08-28 16:48:29
 tags: [Learning Notes,CSS,JavaScript]
 categories: Learning Notes

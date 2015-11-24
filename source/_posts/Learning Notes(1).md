@@ -1,4 +1,4 @@
-title: 学习日记
+title: 学习笔记
 date: 2015-08-27 15:48:29
 tags: [Learning Notes,JavaScript,CSS]
 categories: Learning Notes
