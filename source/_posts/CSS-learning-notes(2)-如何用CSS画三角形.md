@@ -17,6 +17,7 @@ toc: false
         border-color: black;  
     }  
     ```
+<!--more-->
 效果如图：
 ![效果图](http://img.blog.csdn.net/20150902100846899?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
@@ -31,6 +32,7 @@ border是分为上右下左的四个部分，这四个部分究竟如何分界�
         border-color: black green gray pink;  
     }  
     ```
+
 效果如图：
 ![效果图](http://img.blog.csdn.net/20150902101103429?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 

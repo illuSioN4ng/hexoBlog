@@ -13,6 +13,7 @@ toc: true
 >一个正则表达式直接量会在执行到它的时候转换为一个RegExp对象，同一段代码所表示的正则表达式直接量的每次运算都返回同一个对象。
 >ECMAScript 5规定：
 >同一段代码的正则表达式直接量的每次运算都返回一个新的对象。
+<!--more-->
 
 例如，在Firefox 3.6中遵循的是ECMAScript 3规范，Firefox 4+中遵循的是ECMAScript 5规范，PS： 在ECMAScript 6 规范中，我还没有学习到最新关于正则表达式直接量的部分。（示例来自于《javaScript权威指南》）
 ```
@@ -28,7 +29,7 @@ console.log(reg === reg2);//在Firefox3.6中，true；在Firefox4+中，false；
 reg.foo = 'baz';
 console.log(reg2.foo);在Firefox3.6中，返回‘baz’；在Firefox4+中，返回‘bar’；
 ```
- 
+
 **tips:**
  1. 如果想要在正则表达式中使用这些字符的直接量进行匹配，则必须使用前缀'\'，这是一条通行规则；
  2.  如果不记得哪些符号需要反斜杠转义，可以在每个标点符号前都加上反斜杠；

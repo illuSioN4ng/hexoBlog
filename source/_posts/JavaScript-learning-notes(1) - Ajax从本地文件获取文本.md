@@ -6,6 +6,7 @@ toc: true
 ---
 今天学习了Ajax从本地文件获取文本。遇到了些问题，在网络上都找到了解决办法。
 先把源码都贴上来吧
+<!--more-->
 ```
 <!DOCTYPE html>  
 <html lang="en">  

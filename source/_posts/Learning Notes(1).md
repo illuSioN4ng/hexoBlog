@@ -13,7 +13,7 @@ toc: true
             var obj ={};  
     
     使用new关键字，什么情况下创建对象?
-    
+<!--more-->    
     - 创建数组：
     
             var myArray = new Array();  
@@ -22,8 +22,7 @@ toc: true
         
     如何高效地删除JavaScript数组中的重复元素？[JavaScript常用数组算法](http://web.jobbole.com/83518/)
     
-    - 变量提升（variable hoisting）
-    
+    - 变量提升（variable hoisting）    
     变量提升指的是，无论是哪里的变量在一个范围内声明的，那么JavaScript引擎会将这个声明移到范围的顶部。如果在函数中间声明一个变量，例如在某一行中赋值一个变量：
     
             function f(){  

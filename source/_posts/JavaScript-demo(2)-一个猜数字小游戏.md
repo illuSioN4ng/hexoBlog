@@ -12,7 +12,7 @@ toc: true
             num = (now.getSeconds()) % 10;  
             num ++;  
         }  
-    
+<!--more-->     
 2. 猜数函数
 
         function guessIt(form){  
@@ -28,7 +28,7 @@ toc: true
                 form.tfield.focus();  
             }  
         } 
-        
+       
 3. HTML主体
 
         <body bgColor="lightgreen" onLoad="randomize()">  

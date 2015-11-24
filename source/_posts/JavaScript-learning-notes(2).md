@@ -9,7 +9,8 @@ toc: true
 #### 操作符：
 
 要是两个值类型不同，返回false 
-要是两个值都是number类型，并且数值相同，返回true 
+要是两个值都是number类型，并且数值相同，返回true
+<!--more-->
 要是两个值都是stirng，并且两个值的String内容相同，返回true 
 要是两个值都是true或者都是false，返回true 
 要是两个值都是指向相同的Object，Arraya或者function，返回true 

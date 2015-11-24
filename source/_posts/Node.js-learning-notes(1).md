@@ -7,7 +7,7 @@ toc: true
 最近开始学习nodejs，将学习到的东西都记下来吧。
 
 ### 一个基础的服务器
-
+<!--more-->
 ```
 var http = require("http");  
 http.createServer(function(req, res) {  

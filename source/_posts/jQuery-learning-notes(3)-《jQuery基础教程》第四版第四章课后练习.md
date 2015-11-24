@@ -4,7 +4,6 @@ tags: [JavaScript,jQuery]
 categories: jQuery
 toc: false 
 ---
-  
 
 ### 修改样式表，一开始先隐藏页面内容，当页面加载后，慢慢地淡入内容。
 
@@ -14,6 +13,7 @@ $(document).ready(function() {
 	$('body').fadeIn(1500);//自行设置时间
 });
 ```
+<!--more-->
 ### 在鼠标悬停到段落上面时，给段落应用黄色背景。
 ```
 $(document).ready(function() {
@@ -28,7 +28,6 @@ $(document).ready(function() {
 
 ### 单击标题使其不透明度变为25%，同时添加20px的左外边距，当这两个效果完成后，把讲话文本变成50%的不透明度。
  
-
 ```
 $(document).ready(function() {
 	$('h2').click(function(){//单击标题(<h2>)
