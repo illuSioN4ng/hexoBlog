@@ -9,7 +9,6 @@ toc: false
 3. **当用户按下向右方向键时，切换到下一个body类；右方向键的键码是39.**
 4. **挑战：使用console.log()函数记录在段落中移动的鼠标的坐标位置。（注意：console.log()可以在Firefox的firebug扩展、Safari的Web Inspector或Chrome、IE中的Developer Tools中使用。）**
 5. **挑战：使用.mousedown()和.mouseup()跟踪页面中的鼠标事件。如果鼠标按键在按下它的地方被释放，则为所有段落添加hidden类。如果是在按下它的地方之下被释放的，删除所有段落的hidden类。**
-
 _________________________
 <!--more-->
 JavaScript代码如下所示：
