@@ -96,6 +96,15 @@
             <div class="fb-like" data-layout="button_count" data-share="true"></div>
           {% endif %}
 
+          {% if theme.busuanzi %}
+          &nbsp; | &nbsp;
+          <span class="read-count"  id="busuanzi_container_site_pv" style='display:none'>
+            阅读：
+            <span id="busuanzi_value_page_pv"></span>
+            次
+          </span>
+          {% endif %}
+
         </div>
       </header>
     {% endif %}

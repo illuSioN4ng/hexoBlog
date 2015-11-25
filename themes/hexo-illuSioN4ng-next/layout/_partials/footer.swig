@@ -18,5 +18,14 @@
     NexT{% if theme.scheme %}.{{ theme.scheme }}{% endif %}
   </a>
 </div>
+{% if theme.busuanzi %}
+<div class="visit-count">
+  <span id="busuanzi_container_site_uv">
+      你是第<span id="busuanzi_value_site_uv"></span>个到访的小伙伴
+  </span>
+</div>
+{% endif %}
+
+
 
 {% block footer %}{% endblock %}

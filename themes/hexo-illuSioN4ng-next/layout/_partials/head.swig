@@ -74,6 +74,9 @@
   })
 }}
 
+{% if theme.busuanzi %}
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+{% endif %}
 
 {# Export some HEXO Configurations to Front-End #}
 <script type="text/javascript" id="hexo.configuration">
