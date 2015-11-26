@@ -13,7 +13,7 @@ toc: false
 5. **挑战：为与.pdf链接最接近的祖先元素`<ul>`添加tragedy类**
 
 -------------------
-<!--more-->
+
 ```
 $(document).ready(function() {
   $('#selected-plays > li > ul > li').addClass('special');

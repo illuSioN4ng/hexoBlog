@@ -13,7 +13,7 @@ toc: true
             var obj ={};  
     
     使用new关键字，什么情况下创建对象?
-<!--more-->    
+    
     - 创建数组：
     
             var myArray = new Array();  

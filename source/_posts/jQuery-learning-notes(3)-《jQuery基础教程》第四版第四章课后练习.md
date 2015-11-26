@@ -13,7 +13,7 @@ $(document).ready(function() {
 	$('body').fadeIn(1500);//自行设置时间
 });
 ```
-<!--more-->
+
 ### 在鼠标悬停到段落上面时，给段落应用黄色背景。
 ```
 $(document).ready(function() {

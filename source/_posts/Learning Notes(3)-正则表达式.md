@@ -13,7 +13,7 @@ toc: true
 >一个正则表达式直接量会在执行到它的时候转换为一个RegExp对象，同一段代码所表示的正则表达式直接量的每次运算都返回同一个对象。
 >ECMAScript 5规定：
 >同一段代码的正则表达式直接量的每次运算都返回一个新的对象。
-<!--more-->
+
 
 例如，在Firefox 3.6中遵循的是ECMAScript 3规范，Firefox 4+中遵循的是ECMAScript 5规范，PS： 在ECMAScript 6 规范中，我还没有学习到最新关于正则表达式直接量的部分。（示例来自于《javaScript权威指南》）
 ```

@@ -19,6 +19,11 @@
   </a>
 </div>
 {% if theme.busuanzi %}
+<div class="site-visit-count">
+  <span id="busuanzi_container_site_pv">
+      本站已被浏览<span id="busuanzi_value_site_pv"></span>次
+  </span>
+</div>
 <div class="visit-count">
   <span id="busuanzi_container_site_uv">
       你是第<span id="busuanzi_value_site_uv"></span>个到访的小伙伴

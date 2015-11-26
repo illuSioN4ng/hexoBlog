@@ -5,7 +5,7 @@ categories: Node.js
 toc: true 
 ---
 昨天在[慕课网](http://www.imooc.com/view/75)上学习node+mongodb+express建站，中间遇到了很多问题，大部分是由于版本升级引起的。现在整理下。
-<!--more-->
+
 ### node+express+mongodb
 看到一个大神关于这三个货的简单介绍，现在直接拷贝过来用下~~~~(>_<)~~~~。
 1. node：
