@@ -103,3 +103,6 @@ jiathis: true
 
 # 多说热评文章 true 或者 false
 duoshuo_hotartical: true
+
+#页眉超链接
+github: https://github.com/la413972057

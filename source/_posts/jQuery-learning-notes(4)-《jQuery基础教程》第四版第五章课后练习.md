@@ -1,4 +1,4 @@
-title: 《jQuery基础教程》第四版第四章课后练习
+title: 《jQuery基础教程》第四版第五章课后练习
 date: 2015-11-26 20:14:26
 tags: [JavaScript,jQuery]
 categories: jQuery
@@ -47,3 +47,4 @@ toc: false
     };
   });
  ```
+  [效果请点击](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter5/index.html)
