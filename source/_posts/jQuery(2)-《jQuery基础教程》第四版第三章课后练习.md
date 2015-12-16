@@ -1,8 +1,7 @@
 title: 《jQuery基础教程》第四版第三章课后练习
 date: 2015-10-08 20:12:29
 tags: [JavaScript,jQuery]
-categories: jQuery
-toc: false 
+categories: jQuery 
 ---
 1. **在Charles Dickens被单击时，给它应用selected样式。**
 2. **在双击章标题(`<h3 class=”chaper-title”>`)时，切换章文本的可见性。**

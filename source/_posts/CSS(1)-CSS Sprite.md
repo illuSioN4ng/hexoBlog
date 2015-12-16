@@ -1,8 +1,7 @@
 title: CSS Sprite（CSS雪碧图）
 date: 2015-08-25 09:09:29
 tags: [CSS]
-categories: CSS
-toc: true 
+categories: CSS 
 ---
 
 今天看到慕课网分享的Mozilla的CSS开发者指南，当中谈到了CSS雪碧图，觉得有用，遂整理一下。

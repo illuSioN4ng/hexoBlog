@@ -2,7 +2,6 @@ title: 七天学会node.js 2（转）
 date: 2015-11-24 21:15:25
 tags: [Node.js,JavaScript]
 categories: Node.js
-toc: true 
 ---
 ## 文件系统 fs
 fs 模块是文件操作的封装，它提供了文件的读取、写入、更名、删除、遍历目录、链接等 POSIX 文件系统操作。与其他模块不同的是，fs 模块中所有的操作都提供了异步的和同步的两个版本， 例如读取文件内容的函数有异步的 fs.readFile() 和同步的fs.readFileSync()。

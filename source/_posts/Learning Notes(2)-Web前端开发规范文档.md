@@ -1,9 +1,9 @@
 title: Web前端开发规范文档
 date: 2015-08-28 16:48:29
 tags: [Learning Notes,CSS,JavaScript]
-categories: Learning Notes
-toc: true 
+categories: Learning Notes 
 ---
+
 ### 规范目的：
 
 > -   使开发流程更加规范化。

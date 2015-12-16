@@ -1,8 +1,7 @@
 title: 《jQuery基础教程》第四版第四章课后练习
 date: 2015-11-19 15:39:29
 tags: [JavaScript,jQuery]
-categories: jQuery
-toc: false 
+categories: jQuery 
 ---
 
 ### 修改样式表，一开始先隐藏页面内容，当页面加载后，慢慢地淡入内容。

@@ -1,8 +1,7 @@
 title: JavaScript(1)
 date: 2015-09-23 12:23
 tags: [JavaScript]
-categories: JavaScript
-toc: true 
+categories: JavaScript 
 ---
 ### JavaScript中的==与===操作符的区别
 

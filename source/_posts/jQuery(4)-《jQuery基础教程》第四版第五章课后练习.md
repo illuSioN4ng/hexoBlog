@@ -1,8 +1,7 @@
 title: 《jQuery基础教程》第四版第五章课后练习
 date: 2015-11-26 20:14:26
 tags: [JavaScript,jQuery]
-categories: jQuery
-toc: false
+categories: jQuery 
 ---
  1. 修改添加back top链接的代码，以便这些链接只从第四段后面才开始出现。
  2. 在单击back to top链接时，为每个链接后面添加一个新段落，其中包含You were here字样。确保链接仍然有效。 

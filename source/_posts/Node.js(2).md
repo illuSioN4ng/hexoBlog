@@ -2,7 +2,6 @@ title: Node.js(2) -- node+express+mongodb建站相关（express4）
 date: 2015-09-24 09:08:29
 tags: [Node.js,JavaScript]
 categories: Node.js
-toc: true 
 ---
 昨天在[慕课网](http://www.imooc.com/view/75)上学习node+mongodb+express建站，中间遇到了很多问题，大部分是由于版本升级引起的。现在整理下。
 

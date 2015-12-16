@@ -1,8 +1,7 @@
 title: 深入学习JavaScript对象(转+学)
 date: 2015-12-10 09:02:15
 tags: [JavaScript]
-categories: JavaScript
-toc: true 
+categories: JavaScript 
 ---
 ## JavaScript对象概述
 JavaScript中对象可以分成三类：

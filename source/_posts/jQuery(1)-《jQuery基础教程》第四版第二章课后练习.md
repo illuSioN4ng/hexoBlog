@@ -1,8 +1,7 @@
 title: 《jQuery基础教程》第四版第二章课后练习
 date: 2015-10-08 19:48:29
 tags: [JavaScript,jQuery]
-categories: jQuery
-toc: false 
+categories: jQuery 
 ---
 最近抽时间系统的学习下jQuery相关知识，看看《jQuery基础教程》。顺便把课后练习的代码整理发上来看看。
 

@@ -2,7 +2,6 @@ title: 七天学会node.js 1（转）
 date: 2015-11-24 19:10:05
 tags: [Node.js,JavaScript]
 categories: Node.js
-toc: true 
 ---
 找到了阿里大牛写的七天学会node.js，边学边记录吧，多打一遍，总归会有点好处的。
 ## 模块

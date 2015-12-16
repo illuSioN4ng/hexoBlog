@@ -1,8 +1,7 @@
 title: 学习笔记
 date: 2015-08-27 15:48:29
 tags: [Learning Notes,JavaScript,CSS]
-categories: Learning Notes
-toc: true 
+categories: Learning Notes 
 ---
 
 1. 盒子模型的三维立体结构图中，从第一层到第五层依次为：border、content+padding、background-image、background-color、margin。
