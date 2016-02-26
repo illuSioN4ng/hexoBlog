@@ -1,4 +1,4 @@
-title: JavaScript(8) - 面试题
+title: 面试题总结
 date: 2016-01-08 16:14:15
 tags: [JavaScript]
 categories: JavaScript 
@@ -13,7 +13,7 @@ categories: JavaScript
 	console.log(typeof arr === 'object');  //true
 	console.log(typeof null === 'object');  //true
 	```
-	从上面的输出结果可知，`typeof bar === "object" `并不能准确判断 `bar` 就是一个 Object。可以通过 `Object.prototype.toString.call(bar) === "[object Object]"` 来避免这种弊端：
+从上面的输出结果可知，`typeof bar === "object" `并不能准确判断 `bar` 就是一个 Object。可以通过 `Object.prototype.toString.call(bar) === "[object Object]"` 来避免这种弊端：
 	```
 	let obj = {};
 	let arr = [];
@@ -31,7 +31,7 @@ categories: JavaScript
 	console.log("a defined? " + (typeof a !== 'undefined'));   //a defined? false
 	console.log("b defined? " + (typeof b !== 'undefined'));//b defined? true
 ```
-	所以 `b `成了全局变量，而 `a` 是自执行函数的一个局部变量。
+所以 `b `成了全局变量，而 `a` 是自执行函数的一个局部变量。
 3. 下面的代码会在 console 输出神马？
 ```
 	var myObject = {
