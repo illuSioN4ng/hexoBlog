@@ -1,94 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b4d2c9-db3e-4495-a2d2-fd03e9fcc168" name="Default" comment="update some pages&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/img/about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/img/leetcode/leetcode1.1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/img/leetcode/leetcode1.2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/img/leetcode/leetcode2.1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/img/leetcode/leetcode2.2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/leetcode-1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/leetcode-2.md" />
-      <change type="DELETED" beforePath="G:\exsice\hexoBlog\.deploy_git\2016\03\24\学习日记\index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/04/25/课外阅读记录/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/04/25/课外阅读记录/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/08/23/hello-world/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/08/23/hello-world/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/08/24/JavaScript-demo(1)-幻灯片效果/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/08/24/JavaScript-demo(1)-幻灯片效果/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/08/25/CSS(1)-CSS Sprite/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/08/25/CSS(1)-CSS Sprite/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/08/27/JavaScript-demo(2)-一个猜数字小游戏/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/08/27/JavaScript-demo(2)-一个猜数字小游戏/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/08/27/Learning Notes(1)/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/08/27/Learning Notes(1)/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/08/28/Learning Notes(2)-Web前端开发规范文档/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/08/28/Learning Notes(2)-Web前端开发规范文档/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/09/02/CSS(2)-如何用CSS画三角形/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/09/02/CSS(2)-如何用CSS画三角形/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/09/07/JavaScript(1) - Ajax从本地文件获取文本/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/09/07/JavaScript(1) - Ajax从本地文件获取文本/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/09/17/Node.js(1)/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/09/17/Node.js(1)/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/09/23/JavaScript(2)/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/09/23/JavaScript(2)/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/09/24/Node.js(2)/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/09/24/Node.js(2)/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/10/08/jQuery(1)-《jQuery基础教程》第四版第二章课后练习/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/10/08/jQuery(1)-《jQuery基础教程》第四版第二章课后练习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/10/08/jQuery(2)-《jQuery基础教程》第四版第三章课后练习/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/10/08/jQuery(2)-《jQuery基础教程》第四版第三章课后练习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/11/18/Learning Notes(3)-正则表达式/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/11/18/Learning Notes(3)-正则表达式/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/11/19/jQuery(3)-《jQuery基础教程》第四版第四章课后练习/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/11/19/jQuery(3)-《jQuery基础教程》第四版第四章课后练习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/11/24/Node.js(3)/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/11/24/Node.js(3)/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/11/24/Node.js(4)-文件系统/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/11/24/Node.js(4)-文件系统/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/11/26/jQuery(4)-《jQuery基础教程》第四版第五章课后练习/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/11/26/jQuery(4)-《jQuery基础教程》第四版第五章课后练习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/10/JavaScript(3) - 深入学习JavaScript对象/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/10/JavaScript(3) - 深入学习JavaScript对象/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/14/Node.js(5)-path/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/14/Node.js(5)-path/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/16/JavaScript(4) - JS数据结构和算法 1/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/16/JavaScript(4) - JS数据结构和算法 1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/17/JavaScript(5) - JS数据结构和算法 2/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/17/JavaScript(5) - JS数据结构和算法 2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/18/JavaScript(6) - 数组/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/18/JavaScript(6) - 数组/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/23/jQuery(5)-《jQuery基础教程》第四版第六章课后练习——通过Ajax发送数据/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/23/jQuery(5)-《jQuery基础教程》第四版第六章课后练习——通过Ajax发送数据/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/24/JavaScript(7) - 栈和队列/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/24/JavaScript(7) - 栈和队列/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2015/12/27/jQuery(6)-使用插件/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2015/12/27/jQuery(6)-使用插件/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/01/03/Node.js(6)-package.json中依赖版本号/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/01/03/Node.js(6)-package.json中依赖版本号/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/01/05/baidu-ife(1)-HTML、CSS/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/01/05/baidu-ife(1)-HTML、CSS/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/01/07/baidu-ife(2)-JavaScript/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/01/07/baidu-ife(2)-JavaScript/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/01/08/somethingAbouInterview/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/01/08/somethingAbouInterview/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/01/10/CSS(3) -  CSS权威指南学习笔记1/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/01/10/CSS(3) -  CSS权威指南学习笔记1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/01/13/估算类问题的回答思路/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/01/13/估算类问题的回答思路/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/03/02/腾讯实习生面试一面笔试题总结/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/03/02/腾讯实习生面试一面笔试题总结/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/03/07/阿里电话一面总结/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/03/07/阿里电话一面总结/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/2016/03/18/tencentInterviewSecond/index.html" afterPath="$PROJECT_DIR$/.deploy_git/2016/03/18/tencentInterviewSecond/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/about/index.html" afterPath="$PROJECT_DIR$/.deploy_git/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/04/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/04/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/08/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/08/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/09/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/09/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/10/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/11/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/11/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/12/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/page/2/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2015/page/3/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2015/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2016/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2016/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2016/01/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2016/01/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/2016/03/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/2016/03/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/page/2/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/page/3/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/archives/page/4/index.html" afterPath="$PROJECT_DIR$/.deploy_git/archives/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/CSS/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/CSS/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/Informal-essay/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/Informal-essay/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/JavaScript/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/JavaScript/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/Learning-Notes/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/Learning-Notes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/Learning-Notes/page/2/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/Learning-Notes/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/Node-js/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/Node-js/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/categories/jQuery/index.html" afterPath="$PROJECT_DIR$/.deploy_git/categories/jQuery/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/page/2/index.html" afterPath="$PROJECT_DIR$/.deploy_git/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/page/3/index.html" afterPath="$PROJECT_DIR$/.deploy_git/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/page/4/index.html" afterPath="$PROJECT_DIR$/.deploy_git/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/CSS/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/CSS/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/HTML/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/HTML/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/JavaScript/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/JavaScript/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/JavaScript/page/2/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/JavaScript/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/JavaScript/page/3/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/JavaScript/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/Learning-Notes/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/Learning-Notes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/Learning-Notes/page/2/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/Learning-Notes/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/Node-js/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/Node-js/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/jQuery/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/jQuery/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/tags/start/index.html" afterPath="$PROJECT_DIR$/.deploy_git/tags/start/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about/index.md" afterPath="$PROJECT_DIR$/source/about/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.deploy_git/css/main.css" afterPath="$PROJECT_DIR$/.deploy_git/css/main.css" />
+    <list default="true" id="48b4d2c9-db3e-4495-a2d2-fd03e9fcc168" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/学习日记.md" afterPath="$PROJECT_DIR$/source/_posts/学习日记.md" />
     </list>
     <ignored path="hexoBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -138,7 +52,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3468208">
+            <state vertical-scroll-proportion="0.3508772">
               <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
@@ -399,14 +313,14 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24627976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5223214" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.47767857" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3238255" sideWeight="0.46577382" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3238255" sideWeight="0.46577382" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -960,7 +874,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3468208">
+        <state vertical-scroll-proportion="0.3508772">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding />
         </state>
