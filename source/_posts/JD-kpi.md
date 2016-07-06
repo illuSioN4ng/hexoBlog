@@ -1,7 +1,7 @@
 title: JSHOP-【绩效系统】总结
 date: 2016-06-24 14:35:28
-tags:[JD实习]
-categories: Learning Notes 
+tags: [JD实习]
+categories: Learning Notes
 ---
 1. 首页动画+icon相关
 2. tab居中问题
