@@ -3,7 +3,7 @@ date: 2016-06-24 14:35:28
 tags:[JD实习]
 categories: Learning Notes 
 ---
-1. 首页动画+icon相关
+1. 首页动画+icon相关（iconmoon）
 2. tab居中问题
 3. css3弹框动画
 4. 图片modal
