@@ -4,7 +4,7 @@ tags:[JD实习]
 categories: Learning Notes 
 ---
 1. 首页动画+icon相关（iconmoon）
-2. tab居中问题
+2. 弹框垂直水平居中问题
 3. css3弹框动画
 4. 图片modal
 5. Ajax相关 + 多次上传问题
