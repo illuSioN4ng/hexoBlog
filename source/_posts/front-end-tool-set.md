@@ -1,0 +1,9 @@
+title: "前端工具集"
+date: 2016-07-14 22:01:35
+tags: [Learning Notes]
+categories: Learning Notes 
+---
+最近在京东项目开发遇到了需要用各种工具库的场景，觉得有必要将有用的工具记录一下了。
+1. [jquery-tmpl(模板渲染)](https://github.com/BorisMoore/jquery-tmpl)
+[详细API](http://web.archive.org/web/20120920065217/http://api.jquery.com/category/plugins/templates/)
+2. [momentjs（时间插件）](http://momentjs.cn/)
