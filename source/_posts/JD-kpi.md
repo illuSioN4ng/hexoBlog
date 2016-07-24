@@ -8,7 +8,7 @@ categories: Learning Notes
 2. 弹框垂直水平居中问题    
 3. css3弹框动画    
 4. [图片modal](http://codepen.io/illuSioN4ng/pen/rLvZjG)    
-主要思路来自[菜鸟教程]（http://www.runoob.com/css3/css3-images.html），加上了点击悬浮层关闭modal的js（**codepen中没有考虑浏览器兼容性**）
+主要思路来自[菜鸟教程](http://www.runoob.com/css3/css3-images.html)，加上了点击悬浮层关闭modal的js（**codepen中没有考虑浏览器兼容性**）
 5. Ajax相关 + 多次上传问题
 6. 图片上传相关h5
 7. 下载get数据超限改为post（iframe拼接）
