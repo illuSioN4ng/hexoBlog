@@ -9,3 +9,6 @@ categories: Learning Notes
 2. [momentjs（时间插件）](http://momentjs.cn/)
 3. [bootstrap-daterangepicker(时间选择器)](https://github.com/dangrossman/bootstrap-daterangepicker)    
 [详细API](http://www.daterangepicker.com/)
+4. [jquery-validation(jquery表单验证)](https://github.com/jzaefferer/jquery-validation)
+5. [jQuery Form Plugin](https://github.com/malsup/form)
+6. [jquery-cookie](https://github.com/carhartl/jquery-cookie)
