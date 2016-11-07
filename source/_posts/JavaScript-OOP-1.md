@@ -1,4 +1,4 @@
-title: 【JavaScript面向对象精要】读书笔记（1）-原始类型和引用类型
+title: 【JavaScript面向对象精要】（1）-原始类型和引用类型
 date: 2016-11-07 12:22:12
 tags: [JavaScript]
 categories: JavaScript 
