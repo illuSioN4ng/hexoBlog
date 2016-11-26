@@ -12,3 +12,7 @@ categories: Learning Notes
 4. [jquery-validation(jquery表单验证)](https://github.com/jzaefferer/jquery-validation)
 5. [jQuery Form Plugin](https://github.com/malsup/form)
 6. [jquery-cookie](https://github.com/carhartl/jquery-cookie)
+
+## http库
+1. [axios](https://www.npmjs.com/package/axios) 取代jquery
+    [axios简单介绍](http://www.weixinla.com/document/22316259.html)
