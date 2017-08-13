@@ -168,10 +168,10 @@ swiftype_key: -KGYzELbHFC1ZoDk_Qem
 baidu_analytics: 73f680a7c65935b14b74cc6e5969222d
 
 # Duoshuo ShortName
-duoshuo_shortname: illuSioN4ng
+duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: illuSioN4ng
 
 # Share
 #jiathis:
