@@ -1,4 +1,4 @@
-title: underscore.js源码阅读（二）
+title: underscore.js源码阅读（2）
 date: 2017-10-23 21:52:47
 tags: [underscore.js]
 categories: JavaScript
