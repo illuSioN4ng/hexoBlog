@@ -1,5 +1,5 @@
 title: jpg、png、gif的不同
-date: 2017-08-26 21:43:38
+date: 2017-10-26 21:43:38
 tags: [CSS]
 categories: CSS
 ---

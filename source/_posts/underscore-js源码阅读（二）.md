@@ -1,5 +1,5 @@
 title: underscore.js源码阅读（二）
-date: 2017-08-23 21:52:47
+date: 2017-10-23 21:52:47
 tags: [underscore.js]
 categories: JavaScript
 ---
@@ -33,6 +33,20 @@ categories: JavaScript
     };
   };
 ```
+&emsp;&emsp;`createAssigner`函数主要是用在下面三个地方：
+```
+ // Extend a given object with all the properties in passed-in object(s).
+  _.extend = createAssigner(_.allKeys);
+
+  // Assigns a given object with all the own properties in the passed-in object(s).
+  // (https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
+  _.extendOwn = _.assign = createAssigner(_.keys);
+  
+// Fill in a given object with default properties.
+  _.defaults = createAssigner(_.allKeys, true);
+```
+&emsp;&emsp; `_.extend` 函数是用来干扩展对象属性的函数；而 `_.extendOwn` 函数则只会对象自身已有属性； `_.defaults` 函数则是，如果 key 相同，后面的不会覆盖前面的，取第一次出现某 key 的 value，为 key-value 键值对。    
+&emsp;&emsp;除此之外，三个方法都能接受 >= 1 个参数，以 .extend 为例，.extend(a, b, c) 将会将 b，c 两个对象的键值对分别覆盖到 a 上。    
 
 ```
 // An internal function for creating assigner functions.
