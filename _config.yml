@@ -70,7 +70,7 @@ theme: hexo-illuSioN4ng-next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/la413972057/la413972057.github.io.git
+  repository: git@github.com:la413972057/la413972057.github.io.git
   branch: master
 
 # 头像设置
