@@ -60,4 +60,8 @@ var mySingleton = (function () {
 
 })();
 ```
-&emsp;&emsp;返回的`getInstance`函数中判断`if ( !instance )`这步操作就是判断实例是否存在，从而控制实例只有一个。如果存在实例的话就返回该实例的引用。    
+&emsp;&emsp;返回的`getInstance`函数中判断`if ( !instance )`这步操作就是判断实例是否存在，从而控制实例只有一个。如果存在实例的话就返回该实例的引用。   
+
+> 参考: 
+> 1. [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/) 
+> 1. [JavaScript设计模式](https://book.douban.com/subject/26589719/) 

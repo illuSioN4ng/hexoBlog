@@ -21,3 +21,6 @@ request.done(function(){
 3. 安全代理，用来控制真实对象访问时的权限，一般用于对象应该有不同的访问权限。
 4. 智能指引，只当调用真实的对象时，代理处理另外一些事情。例如C#里的垃圾回收，使用对象的时候会有引用次数，如果对象没有引用了，GC就可以回收它了。
 
+> 参考: 
+> 1. [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/) 
+> 1. [JavaScript设计模式](https://book.douban.com/subject/26589719/) 

@@ -142,4 +142,6 @@ var strategies = {
 - 选择使用的 `strategy` 的决定权在用户，所以用户必须了解所有的 `strategy` 的作用，这样才能找到一个合适的 `strategy` ，这增加了使用成本；
 - 因为策略模式中的 `strategy` 都是独立封装的，所以一些复杂算法中处理相同逻辑部分也不能公用，所以我们需要采用一些其他的方案来辅助。
 
-> 本文内容参考了 [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/) 和 [JavaScript设计模式](https://book.douban.com/subject/26589719/) 中的部分内容。
+> 参考: 
+> 1. [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/) 
+> 1. [JavaScript设计模式](https://book.douban.com/subject/26589719/) 
