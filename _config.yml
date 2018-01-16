@@ -13,7 +13,7 @@ singnal_signature: :每一个不曾起舞的日子都是对生命的辜负。
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://la413972057.github.io/
+url: http://illuSioN4ng.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,7 +70,7 @@ theme: hexo-illuSioN4ng-next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:la413972057/la413972057.github.io.git
+  repository: git@github.com:illuSioN4ng/illuSioN4ng.github.io.git
   branch: master
 
 # 头像设置
@@ -88,7 +88,7 @@ since: 2015
 
 # Social links
 social:
-  github: https://github.com/la413972057
+  github: https://github.com/illuSioN4ng
   weibo: http://weibo.com/2354437155/profile?topnav=1&wvr=6
   csdn: http://blog.csdn.net/la413972057
 
@@ -105,4 +105,4 @@ jiathis: true
 duoshuo_hotartical: false
 
 #页眉超链接
-github: https://github.com/la413972057
+github: https://github.com/illuSioN4ng
