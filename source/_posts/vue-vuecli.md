@@ -161,7 +161,7 @@ vue init webpack <project-name>
     ......
     ```
 &emsp;&emsp;至此，多页面应用已经搭建完毕，只需要在pages文件夹创建相应的页面文件即可，如输入 `loaclhost:8080/test.html` 即打开 `test` 文件夹对应的页面，以此类推。    
-&emsp;&emsp;当然，某些业务需求对于url可能需要定制，这时候就需要用到 `connect-history-api-fallback` api中的 [`rewrites`](https://github.com/bripkens/connect-history-api-fallback#rewrites) 选项，如下图配置，就可以实现输入 `loaclhost:8080/test` 即打开 `test` 文件夹对应的页面,以及404页面:    
+&emsp;&emsp;当然，某些业务需求对于url可能需要定制，这时候就需要用到 `connect-history-api-fallback` api中的 `rewrites` ([详情请点击](https://github.com/bripkens/connect-history-api-fallback#rewrites)) 选项，如下图配置，就可以实现输入 `loaclhost:8080/test` 即打开 `test` 文件夹对应的页面,以及404页面:    
 ```js
 devServer: {
   clientLogLevel: 'warning',
