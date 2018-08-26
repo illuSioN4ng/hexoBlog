@@ -1,7 +1,7 @@
 title: 基于vue-cli的多页配置
 date: 2018-01-08 10:07:07
-tags: [vue,JavaScript]
-categories: [vue]
+tags: [Vue,JavaScript]
+categories: [Vue]
 ---
 &emsp;&emsp;最近因为公司中台项目前端技术栈准备整体迁移到vue上，又开始对vue-cli进行了一次相对深入的研究，为项目搭建一个简单的前端开发框架，虽然目前需求的单页应用，不过还是对基于vue-cli的多页应用的配置进行了了解，这篇文章就是进行相关的总结：   
 ## vue-cli的变化
