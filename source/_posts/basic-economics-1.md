@@ -1,4 +1,4 @@
-title: basic-economics-1
+title: 微观经济学-1
 date: 2018-08-26 21:22:12
 tags: [basic-economics] 
 categories: Basic Economics
