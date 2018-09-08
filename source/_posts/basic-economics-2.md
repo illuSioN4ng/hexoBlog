@@ -1,4 +1,4 @@
-title: 微观经济学-2
+title: 通过投资的经济增长
 date: 2018-09-02 10:13:08
 tags: [basic-economics] 
 categories: Basic Economics

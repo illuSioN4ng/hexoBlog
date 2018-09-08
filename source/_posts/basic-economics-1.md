@@ -1,4 +1,4 @@
-title: 微观经济学-1
+title: 微观经济学几个基本概念
 date: 2018-08-26 21:22:12
 tags: [basic-economics] 
 categories: Basic Economics
