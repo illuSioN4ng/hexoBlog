@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: 'Hexo, NexT'
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -15,9 +15,6 @@ rss:
 
 # Specify the date when the site was setup
 #since: 2015
-
-
-
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -32,7 +29,6 @@ menu:
   archives: /archives
   tags: /tags
   commonweal: /404.html
-
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -49,18 +45,12 @@ menu_icons:
   archives: archive
   commonweal: heartbeat
 
-
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
 
 # Schemes
 scheme: Mist
-
-
-
 
 # ---------------------------------------------------------------
 # Sidebar Settings
@@ -76,11 +66,10 @@ sidebar: post
 #sidebar: hide
 #sidebar: remove
 
-
 # Social links
 # social:
-  #GitHub:
-  #Others:
+#GitHub:
+#Others:
 
 # Social Icons
 social_icons:
@@ -90,16 +79,13 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
 
-
 # Sidebar Avatar
 #avatar:
 
-
 # Social links
 # social:
-  #GitHub:
-  #Others:
-
+#GitHub:
+#Others:
 
 # TOC in the Sidebar
 toc:
@@ -108,15 +94,11 @@ toc:
   # Automatically add list number to toc.
   number: true
 
-
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
 #creative_commons: by-nc-sa
 #creative_commons:
-
-
-
 
 # ---------------------------------------------------------------
 # Misc Theme Settings
@@ -130,7 +112,6 @@ toc:
 custom_logo:
   enabled: false
   image:
-
 
 # Code Highlight theme
 # Available value:
@@ -149,8 +130,6 @@ auto_excerpt:
 # Use Lato font
 use_font_lato: true
 
-
-
 # ---------------------------------------------------------------
 # Third Party Services Settings
 # ---------------------------------------------------------------
@@ -158,9 +137,8 @@ use_font_lato: true
 # MathJax Support
 mathjax:
 
-
 # Swiftype Search API Key
-swiftype_key: kZzg9CPkZycoT9NtMrMY
+swiftype_key: Z_9MmF1RhipYCUhdzbyn
 
 # Baidu Analytics ID
 #baidu_analytics:
@@ -184,10 +162,8 @@ jiathis: true
 # See: https://www.google.com/webmasters/
 #google_site_verification:
 
-
 # Google Analytics
 #google_analytics:
-
 
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
@@ -198,23 +174,14 @@ duoshuo_info:
   user_id: 0
   #admin_nickname: ROOT
 
-
 # Facebook SDK Support.
 # https://github.com/iissnan/hexo-theme-next/pull/410
 facebook_sdk:
   enable: false
-  app_id:       #<app_id>
-  fb_admin:     #<user_id>
-  like_button:  #true
-  webmaster:    #true
-
-
-
-
-
-
-
-
+  app_id: #<app_id>
+  fb_admin: #<user_id>
+  like_button: #true
+  webmaster: #true
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
