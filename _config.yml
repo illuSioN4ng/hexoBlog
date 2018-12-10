@@ -99,7 +99,7 @@ links:
   MacTalk: http://macshuo.com/
 
 # JiaThis 分享服务
-jiathis: true
+jiathis: false
 
 # 多说热评文章 true 或者 false
 duoshuo_hotartical: false
