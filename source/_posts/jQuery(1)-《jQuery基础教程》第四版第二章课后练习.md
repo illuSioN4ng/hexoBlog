@@ -27,4 +27,4 @@ $(document).ready(function() {
   $('a[href$=".pdf"]').parents('ul:eq(0)').addClass('tragedy');
 });
 ```
-[效果请点击](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter2/index.html)
+[效果请点击](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter2/index.html)

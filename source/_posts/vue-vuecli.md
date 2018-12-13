@@ -7,23 +7,23 @@ categories: [Vue]
 ## vue-cli的变化
 &emsp;&emsp;在公司直接安装vue-cli并初始化vue项目的时候，就发现文档目录还是有些许变化的，尤其是build文件夹里少了两个文件，由下面两个图可见：    
 **旧版的build文件夹**：
-![旧版的build文件夹](http://ww1.sinaimg.cn/large/8c55dc23gy1fn8zj6462jj208e06idfs.jpg)
+![旧版的build文件夹](//ww1.sinaimg.cn/large/8c55dc23gy1fn8zj6462jj208e06idfs.jpg)
 **新版的build文件夹(vue-cli@2.9.2)**：
-![新版的build文件夹](http://ww1.sinaimg.cn/large/8c55dc23gy1fn8zkcmz9mj209005mwef.jpg)
+![新版的build文件夹](//ww1.sinaimg.cn/large/8c55dc23gy1fn8zkcmz9mj209005mwef.jpg)
 &emsp;&emsp;我们知道dev-client.js和dev-server.js文件是之前webpack本地服务热重载hot-reloading，后来想到应该是版本升级之后webpack升级之后使用 `webpack-dev-server` 进行本地服务的构建了。
 &emsp;&emsp;打开package.json文件来看：     
 **旧版 package.json**:    
-![旧版 package.json](http://ww1.sinaimg.cn/large/8c55dc23gy1fn90jo14erj20ey04mmx8.jpg)    
+![旧版 package.json](//ww1.sinaimg.cn/large/8c55dc23gy1fn90jo14erj20ey04mmx8.jpg)    
 **新版(vue-cli@2.9.2) package.json**：    
-![新版(vue-cli@2.9.2) package.json](http://ww1.sinaimg.cn/large/8c55dc23gy1fn90k7tws1j20r904q0sv.jpg)    
+![新版(vue-cli@2.9.2) package.json](//ww1.sinaimg.cn/large/8c55dc23gy1fn90k7tws1j20r904q0sv.jpg)    
 &emsp;&emsp;一看便知，新版 `npm run dev` 启动的命令与旧版完全不一样了，这也就是为什么新版少了两个文件的原因，新版切换到 `webpack-dev-server` 来启动本地浏览器。    
 &emsp;&emsp;同时，新版本地服务 `npm start` 之后浏览器并没有自动打开，显然是配置被默认关闭了，我们改如何去找呢？    
 &emsp;&emsp;首先按照命令调用的js去看 `webpack.dev.conf.js`：    
-![webpack.dev.conf.js](http://ww1.sinaimg.cn/large/8c55dc23gy1fn90xjgspjj20q507jdge.jpg)    
+![webpack.dev.conf.js](//ww1.sinaimg.cn/large/8c55dc23gy1fn90xjgspjj20q507jdge.jpg)    
 &emsp;&emsp;这个config又是哪儿来的呢？    
-![webpack.dev.conf.js](http://ww1.sinaimg.cn/large/8c55dc23gy1fn90yjeqj1j20fc05lmxi.jpg)     
+![webpack.dev.conf.js](//ww1.sinaimg.cn/large/8c55dc23gy1fn90yjeqj1j20fc05lmxi.jpg)     
 &emsp;&emsp;再去看 `config` 文件夹下的 `index.js` 文件：    
-![config/index.js](http://ww1.sinaimg.cn/large/8c55dc23gy1fn910lmdyqj20w80b4751.jpg)     
+![config/index.js](//ww1.sinaimg.cn/large/8c55dc23gy1fn910lmdyqj20w80b4751.jpg)     
 &emsp;&emsp;在这里把 `autoOpenBrowser` 置为 `true` 我们在去启动服务（命令行 `npm start`），这时候浏览器就会自动打开了。    
 ## 基于vue-cli的多页应用配置
 &emsp;&emsp;因为vue-cli默认的就是单页应用的配置，这里就不在赘述。下面详细说下，搭建的多页应用的过程。
@@ -37,16 +37,16 @@ vue init webpack <project-name>
 ```
 3. 在安装过程中会有一些提示：
     - Vue build这个选项选择Runtime + Compiler    
-    ![Runtime + Compiler](http://ww1.sinaimg.cn/large/8c55dc23gy1fn91ojm8bjj20v604st8y.jpg)
+    ![Runtime + Compiler](//ww1.sinaimg.cn/large/8c55dc23gy1fn91ojm8bjj20v604st8y.jpg)
     - 安装vue-router，ESLint、Karma+Mocha、Nightwatch根据需求选择安装
-    ![其他安装选项](http://ww1.sinaimg.cn/large/8c55dc23gy1fn91otxqf5j20jh091t95.jpg)
+    ![其他安装选项](//ww1.sinaimg.cn/large/8c55dc23gy1fn91otxqf5j20jh091t95.jpg)
     - 安装好依赖之后，根据提示操作，即可成功启动项目    
 4. 现在创建的项目模板是单页面应用，与多页面应用还有些差别，需要做一些调整：
     - 项目目录结构调整
     **单页目录**：
-    ![单页目录](http://ww1.sinaimg.cn/large/8c55dc23gy1fn952pr92pj20a80dlmxb.jpg)    
+    ![单页目录](//ww1.sinaimg.cn/large/8c55dc23gy1fn952pr92pj20a80dlmxb.jpg)    
     **多页目录**：
-    ![多页目录](http://ww1.sinaimg.cn/large/8c55dc23gy1fn9534vizsj20ah0gjt90.jpg)
+    ![多页目录](//ww1.sinaimg.cn/large/8c55dc23gy1fn9534vizsj20ah0gjt90.jpg)
     在开发路径src下增加modules和pages文件夹，分别存放模块和页面    
     有关页面的所有文件都放到同一文件夹下就近管理：`index.html`(页面模板)、`main.js`(页面入口文件)、`App.vue`(页面使用的组件，公用组件放到components文件夹下)都移到index文件夹下，并把`main.js`改为`index.js`,保证页面的入口js文件和模板文件的名称一致，同时，新建test文件夹（test页面）（多页应用不需要安装`vue-router`）    
     - 在build/utils.js中添加`entries`、`htmlPlugin`两个方法：webpack多入口文件和多页面输出    

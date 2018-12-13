@@ -88,4 +88,4 @@ la_times.newIssue();    // You didn't hear it from me, but Martians have landed 
 > 1. [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/) 
 > 1. [JavaScript设计模式](https://book.douban.com/subject/26589719/) 
 > 1. [https://github.com/shichuan/javascript-patterns/blob/master/design-patterns/observer.html](https://github.com/shichuan/javascript-patterns/blob/master/design-patterns/observer.html)
-> 1. [http://www.cnblogs.com/TomXu/archive/2012/03/02/2355128.html](http://www.cnblogs.com/TomXu/archive/2012/03/02/2355128.html)
+> 1. [//www.cnblogs.com/TomXu/archive/2012/03/02/2355128.html](//www.cnblogs.com/TomXu/archive/2012/03/02/2355128.html)

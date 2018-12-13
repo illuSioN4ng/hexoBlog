@@ -4,7 +4,7 @@ tags: [HTTP]
 categories: Learning Notes 
 ---
 上个月做绩效系统的过程中遇到了get传送请求url过长的问题，想想http中，get和post之间的区别一直说要好好整理一下，一直被耽搁了，这次就来归纳下吧。
-先来看[w3cschool](http://www.w3school.com.cn/tags/html_ref_httpmethods.asp)上面的总结吧：    
+先来看[w3cschool](//www.w3school.com.cn/tags/html_ref_httpmethods.asp)上面的总结吧：    
 ## 什么是http？
 超文本传输协议（HTTP）的设计目的是保证客户机与服务器之间的通信。    
 HTTP 的工作方式是客户机与服务器之间的请求-应答协议。    

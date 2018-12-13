@@ -55,4 +55,4 @@ Web上很多页面都有提供javascript幻灯效果的代码库，我们可以�
 
 上面代码为startSlideShow和stopSlideShow函数，通过index索引值来遍历图片的地址，并用定时器设置1.5S显示一张图片。
 
-该功能的实际效果见连接。[点击打开链接](http://www.cdyjy.uestc.edu.cn/uestc_la/SlideShow/SlideShow.html "Demo")
+该功能的实际效果见连接。[点击打开链接](//www.cdyjy.uestc.edu.cn/uestc_la/SlideShow/SlideShow.html "Demo")

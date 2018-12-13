@@ -20,7 +20,7 @@ categories: JavaScript
 &emsp;&emsp;首先`underscore.js`用一个立即执行函数将所有的代码包裹起来，形成一个独立的作用域，来防止其他代码对于underscore代码的影响，同时避免全局变量的污染。
 ```
 //     Underscore.js 1.8.3
-//     http://underscorejs.org
+//     //underscorejs.org
 //     (c) 2009-2017 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
 //     Underscore may be freely distributed under the MIT license.
 

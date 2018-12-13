@@ -54,7 +54,7 @@ categories: Learning Notes
     <meta http-equiv="expires" content="Wed, 26 Feb 1997 08：21：57 GMT">//设定网页的到期时间。一旦网页过期，必须到服务器上重新调阅
     <meta http-equiv="Pragma" content="no-cache">//禁止浏览器从本地机的缓存中调阅页面内容
     <meta http-equiv="Window-target" content="_top">//用来防止别人在框架里调用你的页面
-    <meta http-equiv="Refresh" content="5;URL=http://kahn1990.com/">//跳转页面，5指时间停留5秒 网页搜索机器人向导。用来告诉搜索机器人哪些页面需要索引，哪些页面不需要索引
+    <meta http-equiv="Refresh" content="5;URL=//kahn1990.com/">//跳转页面，5指时间停留5秒 网页搜索机器人向导。用来告诉搜索机器人哪些页面需要索引，哪些页面不需要索引
     <meta name="robots" content="none">//content的参数有all,none,index,noindex,follow,nofollow，默认是all
     <link rel="Shortcut Icon" href="favicon.ico">//收藏图标
     <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">//网页不会被缓存
@@ -154,7 +154,7 @@ categories: Learning Notes
 > -   书写链接地址时避免重定向。
 >
     ```
-    href="http://www.kahn1990.com/" //即在URL地址后面加“/”
+    href="//www.kahn1990.com/" //即在URL地址后面加“/”
     ```
 
 > -   `HTML`中对于属性的定义，确保全部使用双引号，绝不要使用单引号

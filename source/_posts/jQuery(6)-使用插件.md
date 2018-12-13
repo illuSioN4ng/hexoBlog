@@ -123,9 +123,9 @@ $(document).ready(function() {
   }).appendTo($controls);
 });
 ```
-[效果请点击](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter7/index.html)
+[效果请点击](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter7/index.html)
 
-题6 需要先到http://jqueryui.com/themeroller/上制作样式并下载，然后应用相应的文件
+题6 需要先到//jqueryui.com/themeroller/上制作样式并下载，然后应用相应的文件
 
 题7 的代码如下：
  方法一：
@@ -143,7 +143,7 @@ $(document).ready(function() {
     </ul>
   </div>
 ```
- [效果请点击](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter7/mobile.html)
+ [效果请点击](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter7/mobile.html)
  方法二： 
 ```
  <div data-role="content">
@@ -163,4 +163,4 @@ $(document).ready(function() {
     </ul>
   </div>
 ```
-[效果请点击](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter7/mobile2.html)
+[效果请点击](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter7/mobile2.html)

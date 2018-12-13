@@ -29,7 +29,7 @@ console.log("HTTP server is listening at port 3000.");
 var http = require("http");  
 http.createServer(function(req, res) {  
   res.writeHead( 301 , {  
-    "Location":"http://www.baidu.com"  
+    "Location":"//www.baidu.com"  
   });  
   res.end("");  
 }).listen(3000, "127.0.0.1");  
@@ -86,6 +86,6 @@ http.createServer(function (req, res) {
     res.end('Page not found\n');  
   }  
 }).listen(3000, "127.0.0.1");  
-console.log('Server running at http://127.0.0.1:3000/'); 
+console.log('Server running at //127.0.0.1:3000/'); 
 ```
 运行这段代码，并结合FireFox的Live HTTP Headers检查相应的HTTP响应头，可以验证代码。

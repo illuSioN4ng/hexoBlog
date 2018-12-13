@@ -9,7 +9,7 @@ categories: Summary
 面就简单的记录一下知识图谱相关的知识。 &emsp;&emsp;知识图谱顾名思义就是将知识点
 之间的关系通过关系图的方式进行展示，包括前置后置节点，以及学生掌握程度等信息。如
 下图所示
-：![知识图谱](http://ww1.sinaimg.cn/large/8c55dc23gy1ftyl6thdn4j21ay10onkk.jpg)
+：![知识图谱](//ww1.sinaimg.cn/large/8c55dc23gy1ftyl6thdn4j21ay10onkk.jpg)
 
 ## 图谱的特点
 
@@ -160,7 +160,7 @@ categories: Summary
 ## 图谱的最终效果
 &emsp;&emsp;代码中其实还是有很多业务逻辑，并没有很完全的去抽离，以后有机会再来做的。    
 &emsp;&emsp;最终效果如下图所示：
-![图谱](http://ww1.sinaimg.cn/large/8c55dc23gy1ftz5d2vyhyj21fi0yotk9.jpg)   
+![图谱](//ww1.sinaimg.cn/large/8c55dc23gy1ftz5d2vyhyj21fi0yotk9.jpg)   
 &emsp;&emsp;详细代码请移步codepen上去看。
 
 <p data-height="500" data-theme-id="0" data-slug-hash="EppgGG" data-default-tab="js,result" data-user="illuSioN4ng" data-pen-title="knowledge-map" class="codepen">See the Pen <a href="https://codepen.io/illuSioN4ng/pen/EppgGG/">knowledge-map</a> by illuSioN4ng (<a href="https://codepen.io/illuSioN4ng">@illuSioN4ng</a>) on <a href="https://codepen.io">CodePen</a>.</p>

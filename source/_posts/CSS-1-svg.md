@@ -4,7 +4,7 @@ tags: [CSS]
 categories: CSS
 ---
 &emsp;&emsp;最近在做课堂互动的演示版本的时候，遇到了一个简单的需求，即教师端点击表扬按钮的时候，学生端需要收到如下的一个效果：    
-![表扬](http://ww1.sinaimg.cn/large/8c55dc23gy1fupotdkqsrj207606tdgw.jpg)    
+![表扬](//ww1.sinaimg.cn/large/8c55dc23gy1fupotdkqsrj207606tdgw.jpg)    
 &emsp;&emsp;虽然某些Javascript插件中可以实现类似的效果，不过这些脚本需要把所有的文字包裹在独立的 `<span></span>` 中，在分别将各个 `span` 旋转定位，从而形成，这时候就想到《CSS揭秘》中提到的SVG原生支持以任何路径排队的文字，所以环形文字和弧形文字都非常简单来实现了。    
 ## 基本实现思路
 &emsp;&emsp;在SVG中，让文本按照路径排列的基本方法就是使用 `<textpath>` 来包裹住这段文本，再把它们装进一个 `<text>` 元素中，这个 `<textpath>` 标签还需要在它的 `id` 属性中引用一个 `<path>` 元素，然后就可以用这个 `<path>` 定义我们想要的路径。    

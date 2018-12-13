@@ -14,7 +14,7 @@ categories: JavaScript
 ```
 eq = function(a, b, aStack, bStack) {
     // Identical objects are equal. `0 === -0`, but they aren't identical.
-    // See the [Harmony `egal` proposal](http://wiki.ecmascript.org/doku.php?id=harmony:egal).
+    // See the [Harmony `egal` proposal](//wiki.ecmascript.org/doku.php?id=harmony:egal).
     //这里恒等判断中要注意 0 === -0，但是我们认为他们是不相等的
     if (a === b) return a !== 0 || 1 / a === 1 / b;
     // `null` or `undefined` only equal to itself (strict comparison).

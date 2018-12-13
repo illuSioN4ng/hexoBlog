@@ -6,7 +6,7 @@ categories: JavaScript
 &emsp;&emsp;今天看了下underscore中的restArgs函数和createAssigner函数    
 ```
 // Similar to ES6's rest param 
-//(http://ariya.ofilabs.com/2013/03/es6-and-rest-parameter.html)
+//(//ariya.ofilabs.com/2013/03/es6-and-rest-parameter.html)
 // This accumulates the arguments passed into an array, after a given index.
 // 和ES6中的rest特性相似，根据给定参数的索引位置，将参数填充到索引之后的位置上
 //（参见 https://github.com/jashkenas/underscore/issues/2542）

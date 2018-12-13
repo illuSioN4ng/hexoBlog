@@ -8,14 +8,14 @@ categories: JavaScript
 {
   // Details: https://github.com/victorporof/Sublime-JSHint#using-your-own-jshintrc-options
   // Example: https://github.com/jshint/jshint/blob/master/examples/.jshintrc
-  // Documentation: http://www.jshint.com/docs/
-  // Error Explanations: http://jslinterrors.com/
+  // Documentation: //www.jshint.com/docs/
+  // Error Explanations: //jslinterrors.com/
 
   //强制性配置---------------------------------------------------------------------------------------
   //-------------------------------------------------------------------------------------------------
 
   //是否为ES5的严格模式
-  //(reference: http://www.infoq.com/cn/news/2009/12/ecmascript5)
+  //(reference: //www.infoq.com/cn/news/2009/12/ecmascript5)
   //(reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope/Strict_mode)
   //(默认)false:不为严格模式
   //true:严格模式 必须在文件或function第一行声明 'use strict';

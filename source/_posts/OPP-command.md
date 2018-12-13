@@ -51,4 +51,4 @@ CarManager.execute({ request: "buyVehicle", model: 'Ford Escort', carID: '543434
 &emsp;&emsp;但敏捷开发原则告诉我们，不要为代码添加基于猜测的、实际不需要的功能，如果不清楚一个系统是否需要命令模式，一般就不要着急去实现它，事实上，在需求的时通过重构实现这个模式并不困难，只有在真正需求如撤销、恢复操作等功能时，把原来的代码重构为命令模式才有意义。    
 
 > 参考: 
-> 1. [http://www.cnblogs.com/TomXu/archive/2012/03/08/2358593.html](http://www.cnblogs.com/TomXu/archive/2012/03/08/2358593.html) 
+> 1. [//www.cnblogs.com/TomXu/archive/2012/03/08/2358593.html](//www.cnblogs.com/TomXu/archive/2012/03/08/2358593.html) 

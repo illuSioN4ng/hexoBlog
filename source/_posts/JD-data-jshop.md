@@ -31,15 +31,15 @@ js引入的库中，主要是`Sea.js + ECharts + Moment.js + DateRangePicker + j
  
 ### 使用到的组件
 1. [jquery-tmpl(模板渲染)](https://github.com/BorisMoore/jquery-tmpl)
-[详细API](http://web.archive.org/web/20120920065217/http://api.jquery.com/category/plugins/templates/)
-2. [moment.js（时间插件）](http://momentjs.cn/)
+[详细API](//web.archive.org/web/20120920065217///api.jquery.com/category/plugins/templates/)
+2. [moment.js（时间插件）](//momentjs.cn/)
 3. [bootstrap-daterangepicker(时间选择器)](https://github.com/dangrossman/bootstrap-daterangepicker)    
-[详细API](http://www.daterangepicker.com/)
-4. [echarts2.0](http://echarts.baidu.com/echarts2/)
+[详细API](//www.daterangepicker.com/)
+4. [echarts2.0](//echarts.baidu.com/echarts2/)
 
 ### Seajs的学习
 #### seajs.use原理
-seajs.use("index.js")=Module.use(["index.js"],undefined,"http://xxxx.com/xxx/xxx/_use_i")    
+seajs.use("index.js")=Module.use(["index.js"],undefined,"//xxxx.com/xxx/xxx/_use_i")    
 1. 通过Module.get创建模块mod，
 2. 通过Module.prototype.load加载mod模块，为mode定义history、remain、callback属性，设置_entry    
  

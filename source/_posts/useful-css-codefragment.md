@@ -3,7 +3,7 @@ date: 2016-07-30 20:57:35
 tags: [Learning Notes,CSS]
 categories: Learning Notes 
 ---
-1. [css3水平垂直居中（效果请点击）](http://codepen.io/illuSioN4ng/pen/EypbGJ)
+1. [css3水平垂直居中（效果请点击）](//codepen.io/illuSioN4ng/pen/EypbGJ)
 ```
 //利用transform属性来做自适应水平垂直居中，常用在有蒙层的弹窗上（个人喜欢这种方式多余绝对定位方式）
 .level-vertical-middle {
@@ -14,7 +14,7 @@ categories: Learning Notes
 }
 ```
 
-2. [单侧阴影（效果请点击）](http://codepen.io/illuSioN4ng/pen/akjVxg)
+2. [单侧阴影（效果请点击）](//codepen.io/illuSioN4ng/pen/akjVxg)
 ```
 //至于为什么那样取值，请自行尝试，真诚脸:)
 .box-shadow {
@@ -43,7 +43,7 @@ categories: Learning Notes
 }
 ```
 
-3. [渐变背景动画（效果请点击）](http://codepen.io/illuSioN4ng/pen/YWjYKW)
+3. [渐变背景动画（效果请点击）](//codepen.io/illuSioN4ng/pen/YWjYKW)
 ```
 .test {
   width: 100px;
@@ -58,7 +58,7 @@ categories: Learning Notes
 }
 ```
 
-4. [首字母大写](http://codepen.io/illuSioN4ng/pen/BzPJBw)
+4. [首字母大写](//codepen.io/illuSioN4ng/pen/BzPJBw)
 ```
 p {
   width: 100px;

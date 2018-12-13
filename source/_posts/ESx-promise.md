@@ -90,4 +90,4 @@ var p = Promise.all([p1, p2, p3])
 
 &emsp;&emsp;当然Promise还是有一些其他的方法，这里就不在赘述了，如果还有兴趣，可以去查找相应的文档，深入的了解一下。    
 
-> 参阅 [ES 6标准入门 Promise 相关](http://es6.ruanyifeng.com/#docs/promise)
+> 参阅 [ES 6标准入门 Promise 相关](//es6.ruanyifeng.com/#docs/promise)

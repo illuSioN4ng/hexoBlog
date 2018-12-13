@@ -72,4 +72,4 @@ b.next(6) // { value:4, done:false }
 b.next(4) // { value:21, done:true }
 ```
 
-> 参阅 [ES 6标准入门 Generator 相关](http://es6.ruanyifeng.com/#docs/generator)
+> 参阅 [ES 6标准入门 Generator 相关](//es6.ruanyifeng.com/#docs/generator)

@@ -6,7 +6,7 @@ categories: jQuery
  1. 页面加载后，把exercises-content.html的主体(body)内容提取到页面的内容区域。
  2. 不要一次就显示整个文档，请为左侧的字母列表创建“提示条”，当用户鼠标放到字母上时，从exercises-content.html中加载与该字母有关的内容。
  3. 为页面加载添加错误处理功能，在页面的内容区显示错误消息。修改脚本，请求does-not-exist.html而不是exercises-content.html，以测试错误处理功能。
- 4. 挑战：页面加载后，向GitHub发送一个JSONP请求，取得某个用户代码库的列表。把每个代码库的名称和URL插入到页面的内容区。取得jQuery项目代码库的URL是http://api.github.com/users/jquery/repos。(我用的是自己github的地址：http://api.github.com/users/illuSioN4ng/repos).
+ 4. 挑战：页面加载后，向GitHub发送一个JSONP请求，取得某个用户代码库的列表。把每个代码库的名称和URL插入到页面的内容区。取得jQuery项目代码库的URL是//api.github.com/users/jquery/repos。(我用的是自己github的地址：//api.github.com/users/illuSioN4ng/repos).
 
 ```
 $(document).ready(function() {
@@ -45,8 +45,8 @@ $(document).ready(function() {
 });
 ```
 
-[题1效果见链接](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index1.html)
-[题2效果见链接](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index2.html)
-[题3效果见链接](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index3.html)
-[题4效果见链接](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index4.html)
+[题1效果见链接](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index1.html)
+[题2效果见链接](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index2.html)
+[题3效果见链接](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index3.html)
+[题4效果见链接](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter6/index4.html)
 

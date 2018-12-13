@@ -42,4 +42,4 @@ categories: JavaScript
             </center>  
         </body> 
         
-[实际效果请点击](http://www.cdyjy.uestc.edu.cn/uestc_la/GuessNum.html)
+[实际效果请点击](//www.cdyjy.uestc.edu.cn/uestc_la/GuessNum.html)

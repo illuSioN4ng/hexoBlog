@@ -37,7 +37,7 @@ categories: Learning Notes
 	     margin-left: -480px;
 	}
 	```
-2. 有的圆角矩形是复杂图案，无法直接用border-radius，请在不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形![示例](http://img.blog.csdn.net/20160105193800331)
+2. 有的圆角矩形是复杂图案，无法直接用border-radius，请在不使用border-radius的情况下实现一个可复用的高度和宽度都自适应的圆角矩形![示例](//img.blog.csdn.net/20160105193800331)
 	实现思路为，利用几个高度为1px盒子的左右边线来画一个圆角
 	html代码如下：
 	```
@@ -100,7 +100,7 @@ categories: Learning Notes
 	    background: lightblue;
 	}
 	```
-3. 用两种不同的方法来实现一个两列布局，其中左侧部分宽度固定、右侧部分宽度随浏览器宽度的变化而自适应变化 ![示例2](http://img.blog.csdn.net/20160105193829567)
+3. 用两种不同的方法来实现一个两列布局，其中左侧部分宽度固定、右侧部分宽度随浏览器宽度的变化而自适应变化 ![示例2](//img.blog.csdn.net/20160105193829567)
 	实现思路为：一、浮动和margin；二、相对布局
 	html代码如下：
 	```
@@ -235,7 +235,7 @@ categories: Learning Notes
 	    background: blue;
 	}
 	```
-5. 实现一个浮动布局，红色容器中每一行的蓝色容器数量随着浏览器宽度的变化而变化 ![示例三](http://img.blog.csdn.net/20160105194636987)![示例四](http://img.blog.csdn.net/20160105194714517)
+5. 实现一个浮动布局，红色容器中每一行的蓝色容器数量随着浏览器宽度的变化而变化 ![示例三](//img.blog.csdn.net/20160105194636987)![示例四](//img.blog.csdn.net/20160105194714517)
 	html代码如下：
 	```
 	<div class="clr"></div>
@@ -272,4 +272,4 @@ categories: Learning Notes
 	    clear: both;
 	}
 	```
-	[以上效果可点击查看](http://www.cdyjy.uestc.edu.cn/uestc_la/baidu-ife/task1/task0001.html)
+	[以上效果可点击查看](//www.cdyjy.uestc.edu.cn/uestc_la/baidu-ife/task1/task0001.html)

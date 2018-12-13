@@ -128,4 +128,4 @@ $(document).ready(function() {
 });
 
 ```
-[效果请点击](http://www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter3/index.html)
+[效果请点击](//www.cdyjy.uestc.edu.cn/uestc_la/jQuery/chapter3/index.html)

@@ -79,22 +79,22 @@ body{
 ```
 点击前：
 
-![前端截图1](http://img.blog.csdn.net/20150907101701663?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![前端截图1](//img.blog.csdn.net/20150907101701663?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 点击后：
-![前端截图2](http://img.blog.csdn.net/20150907101728676?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![前端截图2](//img.blog.csdn.net/20150907101728676?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 下面说下我遇到的问题。
 1. 乱码的问题。
-![问题截图1](http://img.blog.csdn.net/20150907101844569?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![问题截图1](//img.blog.csdn.net/20150907101844569?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 起初以为是页面编码的问题，把utf-8改成gbk,gb2312均没有效果。后来想到了应该是txt文件本身的编码，查看了下果然是记事本默认编码是ANSI（搞不懂什么鬼~~~~(>_<)~~~~），改成了utf-8之后重新保存，读取就正常了。
 2. Firefox正常，搜狗、chrome、ie均不能读取。
 chrome提示如图：
-![问题截图2](http://img.blog.csdn.net/20150907102343690?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![问题截图2](//img.blog.csdn.net/20150907102343690?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 在网上找到一篇分享，说是chrome不支持本地的异步请求。
 如何在chrome上面也能得到相同的执行，所以需要在Chrome的快捷方式后面添加：--allow-file-access-from-files 即可（注意前面需要额外加一个空格，否则会报错。）
 如我在本机上的命名是：C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe --allow-file-access-from-files
 结果就正常了。
-![处理后截图](http://img.blog.csdn.net/20150907102707843?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![处理后截图](//img.blog.csdn.net/20150907102707843?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 本地file浏览不要用webkit核心浏览器，要用firefox。否则就要搭建服务器后通过http访问。

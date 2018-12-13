@@ -24,7 +24,7 @@ fs.readFile(filename,[encoding],[callback(err,data)])是最简单的读取文件
 	});
 	```
 假设 test.txt 中的内容是 UTF-8 编码的: "Text 文本文件示例"，运行结果如下图：
-![结果1](http://img.blog.csdn.net/20151124210111533)
+![结果1](//img.blog.csdn.net/20151124210111533)
 这个程序以二进制的模式读取了文件的内容，data 的值是 Buffer 对象。如果我们给fs.readFile 的 encoding 指定编码：
 ```
 var fs = require('fs');
@@ -37,9 +37,9 @@ fs.readFile('test.txt', 'utf-8', function(err, data) {
 });
 ```
 那么运行结果则是：
-![结果2](http://img.blog.csdn.net/20151124210424159)
+![结果2](//img.blog.csdn.net/20151124210424159)
 如果我们把文件名输错，文件不存在的话，代码会报错，如下图：
-![报错1](http://img.blog.csdn.net/20151124210548192)
+![报错1](//img.blog.csdn.net/20151124210548192)
 
 ### fs.readFileSync
 fs.readFileSync(filename, [encoding])是 fs.readFile 同步的版本。它接受的参数和 fs.readFile 相同，而读取到的文件内容会以函数返回值的形式返回。如果有错误发生，fs 将会抛出异常，你需要使用 try 和 catch 捕捉并处理异常。
