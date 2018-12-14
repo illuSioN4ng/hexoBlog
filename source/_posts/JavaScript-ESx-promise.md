@@ -1,7 +1,7 @@
 title: Promise对象
 date: 2018-01-21 15:20:08
 tags: [ESx,JavaScript]
-categories: ESx
+categories: JavaScript
 ---
 ## 概要
 &emsp;&emsp;`Promise` 网上有很多的JavaScript实现，ES6中将它写进了语言标准，统一了语言写法，并提供了原生的 `Promise` 对象的支持。    

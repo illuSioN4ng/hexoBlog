@@ -1,7 +1,7 @@
 title: 【JavaScript面向对象精要】（3）-理解对象
 date: 2016-11-24 09:51:09
-tags: [JavaScript]
-categories: JavaScript 
+tags: [JavaScript,OOP]
+categories: OOP 
 ---
 ## 定义属性。
 

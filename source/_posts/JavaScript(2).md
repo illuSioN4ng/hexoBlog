@@ -23,7 +23,7 @@ categories: JavaScript
 如果一个值是Object，另一个是number或者string，会把Object利用 valueOf()或者toString()转换成原始类型再进行比较 
 
 ### JavaScript中的sort排序
-```
+```html
 <body>  
 <div>  
 sort()对数组排序，不开辟新的内存，对原有数组元素进行调换  

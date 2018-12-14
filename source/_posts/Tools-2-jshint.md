@@ -1,7 +1,7 @@
 title: jshint配置文件
 date: 2017-08-19 22:40:26
-tags: [JavaScript]
-categories: JavaScript 
+tags: [Tools]
+categories: Tools 
 ---
 &emsp;&emsp;今天学习了下`jshint`的配置相关，配置如下：    
 ```

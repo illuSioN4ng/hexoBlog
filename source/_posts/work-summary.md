@@ -1,7 +1,7 @@
 title: 最近工作的一些总结
 date: 2018-11-05 19:37:52
 tags: [electron, electron-vue, Vue, JavaScript]  
-categories: [electron]
+categories: electron
 ---
 最近很久很久都没有认真写过总结了，自从从中学作业组抽身出来，就投入到新课堂互动组，就行 `electron-vue` 相关的开发中来，遇到了许许多多的问题，也针对业务进行可以也sdk或者组件的分装，后面有机会可以写一下，这篇文章，我想总结一下前段时间我遇到的一些问题，及解决方案。    
 ## 临时文件的存放

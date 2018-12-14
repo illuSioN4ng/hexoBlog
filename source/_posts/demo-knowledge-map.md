@@ -1,7 +1,7 @@
 title: knowledge-map 
 date: 2018-08-05 09:37:09 
-tags: [JavaScript] 
-categories: Summary
+tags: [JavaScript,demo] 
+categories: demo
 ---
 
 &emsp;&emsp;今年三月底介入新业务线进行 hybird 开发至今，总算告一段落，期间经历了

@@ -1,7 +1,7 @@
 title: Generator函数
 date: 2018-01-18 21:08:33
 tags: [ESx,JavaScript]
-categories: ESx
+categories: JavaScript
 ---
 &emsp;&emsp;今天在看node.js相关内容的时候，遇到了async/await函数相关，然后想到了promise、generator函数，发现有点记忆混乱了，遂准备整理一下ES6相关的东西。（实际业务中用不到的东西真的是太容易遗忘了，虽然是好东西，能够带来极大的便利，可是业务上需要兼容低版本IE的限制，真的太大了 Orz~~）
 ## 基本概念

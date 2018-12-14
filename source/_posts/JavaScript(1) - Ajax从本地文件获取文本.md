@@ -1,6 +1,6 @@
 title: Ajax从本地文件获取文本
 date: 2015-09-07 10:10:29
-tags: [JavaScript]
+tags: [JavaScript,Ajax]
 categories: JavaScript 
 ---
 今天学习了Ajax从本地文件获取文本。遇到了些问题，在网络上都找到了解决办法。

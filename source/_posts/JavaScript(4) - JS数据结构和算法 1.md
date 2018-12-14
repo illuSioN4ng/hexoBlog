@@ -6,17 +6,17 @@ categories: JavaScript
 ## JavaScript中的真假值
 先来看一个表格：
 
-|数值类型|转化成布尔值|
-|---|---|
-|undefined|false|
-|null|false|
-|布尔值|**true**是true，**false**是false|
-|数字|+0，-0，NaN都是false，其他都是true|
-|字符串|如果字符串是空的（长度为0）即为false，其他都是true|
-|对象|true|
+| 数值类型  | 转化成布尔值                                       |
+| --------- | -------------------------------------------------- |
+| undefined | false                                              |
+| null      | false                                              |
+| 布尔值    | **true**是true，**false**是false                   |
+| 数字      | +0，-0，NaN都是false，其他都是true                 |
+| 字符串    | 如果字符串是空的（长度为0）即为false，其他都是true |
+| 对象      | true                                               |
 
 下面一段代码：
-```
+```js
     var myObj = {
         name: 'illuSioN4ng'
     };

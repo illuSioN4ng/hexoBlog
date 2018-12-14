@@ -1,7 +1,7 @@
 title: 【JavaScript面向对象精要】（4）- 构造函数和原型对象
 date: 2016-11-30 15:34:32
 tags: [JavaScript]
-categories: JavaScript 
+categories: OOP 
 ---
 ## 构造函数
 &emsp;&emsp;构造函数就是你用new创建对象时调用的函数。例如`Obeject`、`Function`、`Array`。构造函数的好处在于，所有用同一个构造函数创建的对象均有相同的属性和方法。

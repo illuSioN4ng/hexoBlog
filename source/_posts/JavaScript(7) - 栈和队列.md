@@ -5,7 +5,7 @@ categories: JavaScript
 ---
 ## 栈
 stack.js文件如下：
-```
+```js
 function Stack(){
     var items = [];
     //入栈
@@ -42,7 +42,7 @@ module.exports = Stack;
 ```
 
 利用栈实现从十进制转换为十六进制以内任意进制，代码如下(在node环境下运行)：
-```
+```js
 var Stack = require('./stack');
 
 var newStack = new Stack();
@@ -78,7 +78,7 @@ console.log(baseConverter(100345, 16));     //187F9
 队列遵循FIFO（First In First Out，先进先出，也称为先来先服务）原则的一组有序的项。
 队列在尾部添加新元素，并从顶部移除元素。最新添加的元素必须排在队列的末尾。
 队列的实现：
-```
+```js
 function Queue() {
 
     var items = [];
@@ -113,7 +113,7 @@ function Queue() {
 }
 ```
 举个例子，如何使用队列：
-```
+```js
 var queue = new Queue();
 console.log(queue.isEmpty()); 	//outputs true
 queue.enqueue("John");
@@ -129,7 +129,7 @@ queue.print();					//Camila
 ```
 
 **优先级队列**
-```
+```js
 function PriorityQueue() {
 
     var items = [];

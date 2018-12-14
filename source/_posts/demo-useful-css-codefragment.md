@@ -1,7 +1,7 @@
 title: 一些有用的css代码收集
 date: 2016-07-30 20:57:35
 tags: [Learning Notes,CSS]
-categories: Learning Notes 
+categories: demo 
 ---
 1. [css3水平垂直居中（效果请点击）](//codepen.io/illuSioN4ng/pen/EypbGJ)
 ```

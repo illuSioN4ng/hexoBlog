@@ -1,7 +1,7 @@
 title: 如何用CSS画三角形
 date: 2015-09-02 10:04
 tags: [Learning Notes,CSS]
-categories: Learning Notes 
+categories: demo 
 ---
 
 今天在微博上看到一个分享，说是如何画三角形，以前就学过，现在整理一下。

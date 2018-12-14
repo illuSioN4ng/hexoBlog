@@ -1,7 +1,7 @@
 title: CSS权威指南学习笔记1
 date: 2016-01-10 17:23
 tags: [Learning Notes,CSS]
-categories: Learning Notes 
+categories: CSS 
 ---
 - CSS关键字往往由空格分隔，只有一种情况例外。在CSS的font属性中，只有一种情况可以使用斜线（/）来分隔两个特定的关键字。栗子如下：
 	```

@@ -1,7 +1,7 @@
 title: 【JavaScript面向对象精要】（2）-函数
 date: 2016-11-17 10:12:10
-tags: [JavaScript]
-categories: JavaScript 
+tags: [JavaScript,OOP]
+categories: OOP 
 ---
 &emsp;&emsp;函数其实就是对象。使函数不同于其他对象的决定性特点是函数存在一个被称为`[[call]]`的内部属性。内部属性无法通过代码访问，而定义了代码执行时的行为。ECMAScript为JavaScript的对象定义了多种内部属性，这种内部属性都用了双重中括号来标注。
 &emsp;&emsp;`[[call]]`属性是函数独有的，表明该对象可以被执行。由于仅函数拥有该属性，ECMAScript定义`typeof`操作符对任何具有`[[call]]`属性的对象返回`function`。这一点在过去导致了一些问题，因为某些浏览器曾经在正则表达式中也包含`[[call]]`属性，导致后者被错误的鉴别为函数（现在大部分已经修复）。

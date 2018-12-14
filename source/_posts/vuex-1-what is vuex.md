@@ -1,7 +1,7 @@
 title: What's Vuex  
 date: 2018-08-18 14:58:05  
 tags: [Vue,JavaScript]  
-categories: [Vue]
+categories: Vue
 
 ---
 

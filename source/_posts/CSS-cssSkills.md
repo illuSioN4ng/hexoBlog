@@ -1,7 +1,7 @@
 title: 12 个 CSS 高级技巧
 date: 2016-04-05 10:26:51
 tags: [Learning Notes,CSS]
-categories: Learning Notes 
+categories: CSS 
 ---
 ## 使用:not()在菜单上应用/取消应用边框
 一般做法：先给每一个菜单添加边框

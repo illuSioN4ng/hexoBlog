@@ -1,6 +1,6 @@
 title: Javascript一个猜数字的小游戏
 date: 2015-08-27 19:29:29
-tags: [JavaScript]
+tags: [JavaScript,demo]
 categories: JavaScript 
 ---
 今天学习了一个猜数字的小游戏的JS写法，方法很简单，现在写下来：
