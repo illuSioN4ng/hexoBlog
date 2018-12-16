@@ -7,9 +7,9 @@ date: 2018-12-14 14:58:33
 ---
 
 &emsp;&emsp;最近可能是做业务做多了，反而对于样式类的东西感兴趣了。开始看`30 Seconds of CSS` 系列的代码。    
-&emsp;&emsp;下面是一个创建跳跃的家在动画的代码。
 
 ## 效果
+&emsp;&emsp;下面是一个创建跳跃的家在动画的代码。
 <p data-height="265" data-theme-id="0" data-slug-hash="jXWzWM" data-default-tab="result" data-user="illuSioN4ng" data-pen-title="Bouncing loader" class="codepen">See the Pen <a href="https://codepen.io/illuSioN4ng/pen/jXWzWM/">Bouncing loader</a> by illuSioN4ng (<a href="https://codepen.io/illuSioN4ng">@illuSioN4ng</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
